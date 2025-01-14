@@ -14,7 +14,8 @@ This dashboard helps the Telecom companies to understand their customers better.
 
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo](https://github.com/atul-iiit/PowerBI-Projects/blob/main/ChurnDashboard.jpg)
+![dashboard_snapo](https://github.com/atul-iiit/PowerBI-Projects/blob/main/Telecom Churn Analysis/ChurnDashboard.jpg)
+
 
 # Insights
 
