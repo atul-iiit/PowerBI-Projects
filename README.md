@@ -8,7 +8,7 @@ Portfolio of data analytics projects showcasing skills in SQL, Python, Power BI,
 
 ## Problem Statement
 
-This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, 
+This dashboard helps the Telecom companies to understand their customers better. It helps the companies know why their customers are not satisfied with their services. Through different churn rates, they get to know their improvement area, 
 ### Steps followed 
 
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
@@ -96,5 +96,5 @@ It lists various services and shows what percentage (or portion) of customers ar
 
 ### Summary
 Overall, the dashboard provides a high-level snapshot of customer churn and related insights. The top section displays total numbers (new joiners, churn, total customers, churn rate), while the central and lower sections break down churn behavior by demographics, contract/payment types, tenure, internet service type, and churn reasons. Finally, the table on the bottom right displays how various optional services relate to churn, showing the proportion of users who opt in or out of each service.
-# Airlines-Dashboard.md.txt
-Displaying # Airlines-Dashboard.md.txt.
+# Telecom-Dashboard.md.txt
+Displaying # Telecom-Dashboard.md.txt.
