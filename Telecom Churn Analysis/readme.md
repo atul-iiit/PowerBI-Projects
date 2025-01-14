@@ -6,11 +6,7 @@
 
 ## Problem Statement
 
-This dashboard helps the Telecom companies to understand their customers better. It helps the companies know why their customers are not satisfied with their services. Through different churn rates, they get to know their improvement area, 
-### Steps followed 
-
-- Step 1 : Load data into Power BI Desktop, dataset is a csv file.
-- Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
+This dashboard helps the Telecom companies to understand their customers better. It helps the companies know why their customers are not satisfied with their services. Through different churn rates, they get to know their improvement area.
 
 # Snapshot of Dashboard (Power BI Service)
 
