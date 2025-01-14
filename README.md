@@ -14,8 +14,6 @@ This dashboard helps the airlines understand their customers better. It helps th
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 
-![Publish_Message](https://github.com/atul-iiit/PowerBI-Projects/blob/main/ChurnDashboard.jpg)
-
 # Snapshot of Dashboard (Power BI Service)
 
 ![dashboard_snapo](https://github.com/atul-iiit/PowerBI-Projects/blob/main/ChurnDashboard.jpg)
