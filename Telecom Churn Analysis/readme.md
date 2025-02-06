@@ -2,7 +2,7 @@
 
 # Telecom Churn Analysis-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNTg1MGE5N2UtYWNmNC00ODIyLTgxMzQtZWMyZjY3NTQ1OGNmIiwidCI6IjQ0MmFhYTc4LTIzZDUtNGU1Zi1hNzE4LTBiODg3ODc4NjlmOCJ9
+### Dashboard Link : [https://app.powerbi.com/view?r=eyJrIjoiNTg1MGE5N2UtYWNmNC00ODIyLTgxMzQtZWMyZjY3NTQ1OGNmIiwidCI6IjQ0MmFhYTc4LTIzZDUtNGU1Zi1hNzE4LTBiODg3ODc4NjlmOCJ9](https://app.powerbi.com/view?r=eyJrIjoiNzIxNDMwNzEtNGFhNi00MjhjLTlkZjMtNzA4NWNhZjljZTg0IiwidCI6IjQ0MmFhYTc4LTIzZDUtNGU1Zi1hNzE4LTBiODg3ODc4NjlmOCJ9)
 
 ## Problem Statement
 
